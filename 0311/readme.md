@@ -1,7 +1,7 @@
 ## Class0311 수업 정리
 
 ### Express 발표
-<a href="https://dpwls03.github.io/React/0311/express(2022764048 최예진).pdf">[발표자료]</a>
+<a href="https://dpwls03.github.io/React/0311/Express(2022764048 최예진).pdf">[발표자료]</a>
 
 [발표내용]
 
