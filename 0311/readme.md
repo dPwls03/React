@@ -14,4 +14,13 @@ Node.js는 Node.js는 Javascript 실행 환경으로, Javascript 코드를 실�
 +) Express 코드 ("Hello World" 출력하기)
 
 ### 수업내용
+<img width="800" src="./img/HTML.jpg" alt="HTML" >
+<p>문서의 내용을 구조화하는 것<br>웹페이지 표시를 위해 개발된 마크업 언어</p>
 
+<img width="800" src="./img/HTML01.jpg" alt="HTML" >
+<p>&lt;!doctype html&gt;은 HTML5를 표준하겠다는 뜻이다.<br>
+&lt;head&gt;는 타이틀, 스타일시트등을 위한 영역이다.<br>&lt;body&gt;는 document를 담당하고 있다.</p>
+<p>document는 JavaScript에서 현재 웹 페이지를 나타내며, 이를 통해 웹 페이지의 구조와 내용을 조작할 수 있다.</p>
+
+<img width="800" src="./img/CSS.jpg" alt="CSS" >
+<p>CSS는 Style sheet언어이다. Cascading이란 용어는 Cascading Style Sheet</p>
