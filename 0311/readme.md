@@ -13,6 +13,8 @@ Node.js는 Node.js는 Javascript 실행 환경으로, Javascript 코드를 실�
 
 +) Express 코드 ("Hello World" 출력하기)
 
+<hr>
+
 ### 수업내용
 <img width="800" src="./img/HTML.jpg" alt="HTML" >
 <p>문서의 내용을 구조화하는 것<br>웹페이지 표시를 위해 개발된 마크업 언어이다.</p>
