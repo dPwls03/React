@@ -23,4 +23,10 @@ Node.js는 Node.js는 Javascript 실행 환경으로, Javascript 코드를 실�
 <p>document는 JavaScript에서 현재 웹 페이지를 나타내며, 이를 통해 웹 페이지의 구조와 내용을 조작할 수 있다.</p>
 
 <img width="800" src="./img/CSS.jpg" alt="CSS" >
-<p>CSS는 Style sheet언어이다. Cascading이란 용어는 Cascading Style Sheet(CSS)</p>
+<p>CSS는 Style sheet언어이다. CSS(Cascading Style Sheet)에서 Cascading이란 우선순위가 가장 큰 스타일시트를 적용할 수 있도록 하고 있다.<br>sass의 가장 큰 특징은 기존 Sass의 문법에서, CSS의 원래 문법에서 사용되는 중괄호를 사용하여 CSS만 알던 사람들이 처음 접해도 직관적으로 의미를 이해할 수 있다는 것이다.</p>
+
+<img width="800" src="./img/CSS01.jpg" alt="CSS" >
+<p><a href="https://csszengarden.com/">[CSS ZEN GARDEN]</a> CSS 디자인 참고 웹사이트</p>
+
+<img width="800" src="./img/Javascript.jpg" alt="Javascript" >
+<p>Javascript는 웹페이지가 동작하는 것을 담당한다. </p>
