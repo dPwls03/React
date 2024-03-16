@@ -1,42 +1,64 @@
 <!DOCTYPE html>
-<html>
-<title>React</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>여러 개의 카드</title>
+<style>
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* 각 카드 사이의 간격 조절 */
+  }
+
+  .card {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .card img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+
+  .card-content {
+    padding: 20px;
+  }
+
+  .card-content h3 {
+    margin-top: 0;
+  }
+
+  .card-content p {
+    margin-bottom: 0;
+  }
+</style>
+</head>
 <body>
 
-<div class="w3-container">
-  <h2>React</h2>
-  <p></p>
-  <hr>
-
-  <div class="w3-card-4" style="width:400px;">
-    <header class="w3-container w3-blue">
-      <h1>2024-03-11-월</h1>
-    </header>
-
-    <div class="w3-container">
-      <p></p>
+<div class="card-container">
+  <div class="card">
+    <img src="https://via.placeholder.com/300" alt="Card Image">
+    <div class="card-content">
+      <h3>카드 제목 1</h3>
+      <p>카드 설명이 여기에 들어갑니다.</p>
     </div>
-
-    <footer class="w3-container w3-blue">
-      <h5><a href="https://github.com/dPwls03/React/tree/main/0311">수업내용 및 발표자료</a></h5>
-    </footer>
   </div>
 
-  <div class="w3-card-4" style="width:400px;">
-    <header class="w3-container w3-blue">
-      <h1>2024-03-18-월</h1>
-    </header>
-
-    <div class="w3-container">
-      <p></p>
+  <div class="card">
+    <img src="https://via.placeholder.com/300" alt="Card Image">
+    <div class="card-content">
+      <h3>카드 제목 2</h3>
+      <p>카드 설명이 여기에 들어갑니다.</p>
     </div>
-
-    <footer class="w3-container w3-blue">
-      <h5><a href="https://github.com/dPwls03/React/tree/main/0311">수업내용 및 발표자료</a></h5>
-    </footer>
   </div>
+
+  <!-- 원하는 만큼 카드를 추가할 수 있습니다. -->
+
 </div>
 
 </body>
