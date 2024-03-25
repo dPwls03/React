@@ -52,15 +52,10 @@ rootElement.append(headingElement); - rootElement에 headingElement를 추가하
 
 <img width="800" src="./img/JSX2..jpg" alt="JSX" >
 <p>표현식 = expression</p> 
-<p></p> 
-
-constant
-
-variable
-
-operator
-
-function  
+<p>constant(상수) - 변하지 않는 값으로, 예를 들어 숫자나 문자열 등이 있습니다. 상수는 프로그램 실행 중에 변경되지 않습니다.</p> 
+<p>variable(변수) - 값이나 데이터를 저장하는 공간으로, 해당 값은 프로그램 실행 중에 변경될 수 있습니다.</p> 
+<p>operator(연산자) - 데이터를 처리하거나 조작하는 데 사용되는 기호 또는 키워드입니다.</p> 
+<p>Function(함수) - 특정 작업을 수행하는 코드 블록으로, 이름을 가지고 있으며 호출되어 사용됩니다.</p> 
 
 <img width="800" src="./img/JSX3..jpg" alt="JSX" >
 <p>jsx는 if 구문 및 변수를 할당하고 인자를 받아들이고 함수로부터 반환할 수있다.</p>   
