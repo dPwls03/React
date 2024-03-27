@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>자 기 소 개 (JS)</title>
+</head>
+<body>
+    <div id="root"></div>
+    
+    <script type="module">
+        const headingElement = document.createElement("h1");
+        headingElement.textContent = "JavaScript로 자기소개 웹페이지 만들기";
+        headingElement.className = "heading";
+        const rootElement = document.getElementById("root");
+        rootElement.append(headingElement);
+
+        const hrElement = document.createElement("hr");
+        rootElement.append(hrElement);
+
+        const paragraph1 = document.createElement("p");
+        paragraph1.textContent = "안녕하세요. 저는 경성대학교 소프트웨어학과 2022764048 최예진입니다.";
+        rootElement.append(paragraph1);
+
+        const paragraph2 = document.createElement("p");
+        paragraph2.textContent = "집에서 드라마를 보거나 잠을 자는 것, 노래를 듣는 것, 게임하는 것을 좋아합니다.";
+        rootElement.append(paragraph2);
+
+        const paragraph3 = document.createElement("p");
+        paragraph3.textContent = "저는 HTML, CSS, JavaScript, java, C, Python, C++ 언어를 다룹니다.";
+        rootElement.append(paragraph3);
+
+        const paragraph4 = document.createElement("p");
+        paragraph4.textContent = "현재 관심있는 전공 분야는 웹분야입니다. 그래서 웹 관련 직업(웹 프로듀서, 서비스 기획자 등)을 꿈꾸고 있습니다.";
+        rootElement.append(paragraph4);
+    </script>
+
+</body>
+</html>
