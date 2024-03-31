@@ -27,4 +27,3 @@
 <img width="800" src="./img/SPA1.jpg" alt="SPA" >
 <p>링크</p>
 <p>위 링크로 들어가면 기획한 것의 동작을 볼 수 있다.</p>
-<hr>
