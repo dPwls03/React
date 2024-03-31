@@ -3,38 +3,119 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>자 기 소 개 (JS)</title>
+    <link rel="stylesheet" href="../style.css">
+    <title>자 기 소 개 (JavaScript)</title>
+    <style>
+        a {
+            text-decoration: none;
+        }
+        .table-container {
+            display: flex;
+            justify-content: center;
+        }
+        .info {
+            width: 50%;
+        }
+    </style>
 </head>
 <body>
-    <div id="root"></div>
-    
-    <script type="module">
+    <script>
         const headingElement = document.createElement("h1");
         headingElement.textContent = "JavaScript로 자기소개 웹페이지 만들기";
-        headingElement.className = "heading";
-        const rootElement = document.getElementById("root");
-        rootElement.append(headingElement);
+
+        document.body.appendChild(headingElement);
+
+        const tableContainer = document.createElement("div");
+        tableContainer.classList.add("table-container");
+
+        const info1 = document.createElement("div");
+        info1.classList.add("info");
+
+        const h2Element1 = document.createElement("h2");
+        h2Element1.textContent = "MY";
+
+        info1.appendChild(h2Element1);
+
+        const table1 = document.createElement("table");
+        table1.classList.add("my-info");
+
+        const tbody1 = document.createElement("tbody");
+
+        const infoData1 = [
+            ["이름 :", "최예진"],
+            ["생일 :", "2003-01-23 (만 21세)"],
+            ["학교 :", "경성대학교 재학 중"],
+            ["학과 :", "소프트웨어학과"],
+            ["학번 :", "2022764048"]
+        ];
+
+        infoData1.forEach(data => {
+            const [key, value] = data;
+            const tr = document.createElement("tr");
+            const th = document.createElement("th");
+            const td = document.createElement("td");
+            th.textContent = key;
+            td.textContent = value;
+            tr.appendChild(th);
+            tr.appendChild(td);
+            tbody1.appendChild(tr);
+        });
+
+        table1.appendChild(tbody1);
+
+        info1.appendChild(table1);
+
+        tableContainer.appendChild(info1);
+
+        const info2 = document.createElement("div");
+        info2.classList.add("info");
+
+        const h2Element2 = document.createElement("h2");
+        h2Element2.textContent = "etc.";
+
+        info2.appendChild(h2Element2);
+
+        const table2 = document.createElement("table");
+        table2.classList.add("etc-info");
+
+        const tbody2 = document.createElement("tbody");
+
+        const infoData2 = [
+            ["취미 :", "잠 자기, 드라마 보기, 게임하기"],
+            ["언어 :", "HTML, CSS, JavaScript, Java, C, Python, C++"],
+            ["관심분야 :", "웹, 웹 개발, 웹 기획"],
+            ["꿈 :", "웹 프로듀서, 서비스 기획자, 웹 개발자"]
+        ];
+
+        infoData2.forEach(data => {
+            const [key, value] = data;
+            const tr = document.createElement("tr");
+            const th = document.createElement("th");
+            const td = document.createElement("td");
+            th.textContent = key;
+            td.textContent = value;
+            tr.appendChild(th);
+            tr.appendChild(td);
+            tbody2.appendChild(tr);
+        });
+
+        table2.appendChild(tbody2);
+
+        info2.appendChild(table2);
+
+        tableContainer.appendChild(info2);
+
+        document.body.appendChild(tableContainer);
 
         const hrElement = document.createElement("hr");
-        rootElement.append(hrElement);
 
-        const paragraph1 = document.createElement("p");
-        paragraph1.textContent = "안녕하세요. 저는 경성대학교 소프트웨어학과 2022764048 최예진입니다.";
-        rootElement.append(paragraph1);
+        document.body.appendChild(hrElement);
 
-        const paragraph2 = document.createElement("p");
-        paragraph2.textContent = "집에서 드라마를 보거나 잠을 자는 것, 노래를 듣는 것, 게임하는 것을 좋아합니다.";
-        rootElement.append(paragraph2);
+        const aElement = document.createElement("a");
+        aElement.setAttribute("href", "https://github.com/dPwls03");
+        aElement.textContent = "Github";
 
-        const paragraph3 = document.createElement("p");
-        paragraph3.textContent = "저는 HTML, CSS, JavaScript, java, C, Python, C++ 언어를 다룹니다.";
-        rootElement.append(paragraph3);
-
-        const paragraph4 = document.createElement("p");
-        paragraph4.textContent = "현재 관심있는 전공 분야는 웹분야입니다. 그래서 웹 관련 직업(웹 프로듀서, 서비스 기획자 등)을 꿈꾸고 있습니다.";
-        rootElement.append(paragraph4);
+        document.body.appendChild(aElement);
     </script>
-
 </body>
 </html>
-
