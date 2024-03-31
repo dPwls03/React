@@ -65,3 +65,15 @@ rootElement.append(headingElement); - rootElement에 headingElement를 추가하
 <img width="800" src="./img/JSX4..jpg" alt="JSX" >
 <p>jsx안에는 제어문을 쓸 수 없다. 그래서 자바스크립트로 위에 제어문을 만들어주고 그 결과를 jsx안에 넣게 된다.</p>   
 <p>만약에 jsx안에 제어문이 필요하면 삼항 연산자를 사용한다.</p>
+
+<img width="800" src="./img/Book.jpg" alt="JSX" >
+<p>Book.jsx 코드</p>   
+
+<img width="800" src="./img/BookLibrary.jpg" alt="JSX" >
+<p>BookLibrary.jsx 코드</p>  
+
+<img width="800" src="./img/index.jpg" alt="JSX" >
+<p>index.js 코드</p> 
+
+<img width="800" src="./img/start.jpg" alt="JSX" >
+<p>코드 실행 화면</p> 
