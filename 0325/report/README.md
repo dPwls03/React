@@ -21,3 +21,10 @@
 <p>JSX로 만든 웹사이트의 모습이다.</p>
 <hr>
 
+<img width="800" src="./img/SPA.jpg" alt="SPA" >
+<p>이것은 피그마로 SPA 기획한 모습이다.</p>
+
+<img width="800" src="./img/SPA1.jpg" alt="SPA" >
+<p>링크</p>
+<p>위 링크로 들어가면 기획한 것의 동작을 볼 수 있다.</p>
+<hr>
