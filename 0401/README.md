@@ -106,6 +106,12 @@
 
 #### 프로퍼티의 기본값 설정
 
+<img width="450vw" src="./img/propsbaseapp.jpg" alt="props" > <img width="450vw" src="./img/propsbasemain.jpg" alt="props" >
+<p>숫자 프로퍼티 넘기기 App.js 코드</p> <p>숫자 프로퍼티 넘기기 Main.js 코드</p>
+
+<img width="800" src="./img/propsbasestart.jpg" alt="props" >
+<p>실행화면</p>
+
 <hr>
 
 #### 프로퍼티의 필수값 설정
