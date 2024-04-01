@@ -23,7 +23,7 @@
 
 <img width="800" src="./img/all.jpg" alt="SPA" >
 
-<img width="500vw" src="./img/main.jpg" alt="SPA" > <img width="300" src="./img/7호관-A.jpg" alt="SPA" >
+<img width="500vw" src="./img/main.jpg" alt="SPA" > <img width="500vw" src="./img/7호관-A.jpg" alt="SPA" >
 
 <img width="500" src="./img/7호관-B.jpg" alt="SPA" > <img width="500" src="./img/8호관.jpg" alt="SPA" >
 
