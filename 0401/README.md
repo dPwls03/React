@@ -39,14 +39,8 @@
 <img width="450vw" src="./img/funchead.jpg" alt="component practice" > <img width="450vw" src="./img/funcmain.jpg" alt="component practice" >
 <p>Function Component Header.js 코드</p> <p>Function Component Main.js 코드</p>
 
-
-
-
-<img width="450vw" src="./img/funcfoot.jpg" alt="component practice" >
-<p>Function Component Footer.js 코드</p>
-
-<img width="450vw" src="./img/funcapp.jpg" alt="component practice" >
-<p>Function Component App.js 코드</p>
+<img width="450vw" src="./img/funcfoot.jpg" alt="component practice" > <img width="450vw" src="./img/funcapp.jpg" alt="component practice" >
+<p>Function Component Footer.js 코드</p> <p>Function Component App.js 코드</p>
 
 <p>rsf (React Stateless Function Component의 약자)</p>
 
@@ -57,17 +51,11 @@
 
 #### Class Component
 
-<img width="800" src="./img/classhead.jpg" alt="component practice" >
-<p>Class Component Header.js 코드</p>
+<img width="450vw" src="./img/classhead.jpg" alt="component practice" > <img width="450vw" src="./img/classmain.jpg" alt="component practice" >
+<p>Class Component Header.js 코드</p> <p>Class Component Main.js 코드</p>
 
-<img width="800" src="./img/classmain.jpg" alt="component practice" >
-<p>Class Component Main.js 코드</p>
-
-<img width="800" src="./img/classfoot.jpg" alt="component practice" >
-<p>Class Component Footer.js 코드</p>
-
-<img width="800" src="./img/classapp.jpg" alt="component practice" >
-<p>v Component App.js 코드</p>
+<img width="450vw" src="./img/classfoot.jpg" alt="component practice" > <img width="450vw" src="./img/classapp.jpg" alt="component practice" >
+<p>Class Component Footer.js 코드</p> <p>Class Component App.js 코드</p>
 
 <p>rcc (React Class Component의 약자)</p>
 
