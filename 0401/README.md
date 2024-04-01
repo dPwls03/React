@@ -86,6 +86,12 @@
 
 #### 2개의 프로퍼티 넘기기
 
+<img width="450vw" src="./img/twopropsapp.jpg" alt="props" > <img width="450vw" src="./img/twopropsmain.jpg" alt="props" >
+<p>2개의 프로퍼티 넘기기 App.js 코드</p> <p>2개의 프로퍼티 넘기기 Main.js 코드</p>
+
+<img width="800" src="./img/twopropsstart.jpg" alt="props" >
+<p>실행화면</p>
+
 <hr>
 
 #### 숫자 프로퍼티 넘기기
