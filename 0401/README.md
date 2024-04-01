@@ -126,6 +126,12 @@
 
 #### 불리언 프로퍼티 사용하기
 
+<img width="450vw" src="./img/boolpropsapp.jpg" alt="props" > <img width="450vw" src="./img/boolpropsmain.jpg" alt="props" >
+<p>불리언 프로퍼티 사용하기 App.js 코드</p> <p>불리언 프로퍼티 사용하기 Main.js 코드</p>
+
+<img width="800" src="./img/boopropsstart.jpg" alt="props" >
+<p>실행화면</p>
+
 <hr>
 
 #### props.children 활용하기
