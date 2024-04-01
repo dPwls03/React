@@ -129,12 +129,24 @@
 <img width="450vw" src="./img/boolpropsapp.jpg" alt="props" > <img width="450vw" src="./img/boolpropsmain.jpg" alt="props" >
 <p>불리언 프로퍼티 사용하기 App.js 코드</p> <p>불리언 프로퍼티 사용하기 Main.js 코드</p>
 
-<img width="800" src="./img/boopropsstart.jpg" alt="props" >
+<img width="800" src="./img/boolpropsstart.jpg" alt="props" >
 <p>실행화면</p>
 
 <hr>
 
 #### props.children 활용하기
+
+<img width="450vw" src="./img/propschildappx.jpg" alt="props" > <img width="450vw" src="./img/wrapperx.jpg" alt="props" >
+<p>props.children 활용하기(Main 안 보임) App.js 코드</p> <p>props.children 활용하기(Main 안 보임) Wrapper.js 코드</p>
+
+<img width="800" src="./img/propschildstartx.jpg" alt="props" >
+<p>실행화면</p>
+
+<img width="450vw" src="./img/propschildappo.jpg" alt="props" > <img width="450vw" src="./img/wrappero.jpg" alt="props" >
+<p>props.children 활용하기(Main 보임) App.js 코드</p> <p>props.children 활용하기(Main 보임) Wrapper.js 코드</p>
+
+<img width="800" src="./img/propschildstarto.jpg" alt="props" >
+<p>실행화면</p>
 
 <hr>
 
