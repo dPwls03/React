@@ -107,7 +107,7 @@
 #### 프로퍼티의 자료형, 타입정의
 
 <img width="450vw" src="./img/propstypeapp.jpg" alt="props" > <img width="450vw" src="./img/propstypemain.jpg" alt="props" >
-<p>프로퍼티의 기본값 설정 App.js 코드</p> <p>프로퍼티의 기본값 설정 Main.js 코드</p>
+<p>프로퍼티의 자료형, 타입정의 App.js 코드</p> <p>프로퍼티의 자료형, 타입정의 Main.js 코드</p>
 
 <img width="800" src="./img/propstypestart.jpg" alt="props" >
 <p>실행화면</p>
@@ -163,7 +163,7 @@
 #### props.children 활용하기 (여러 개의 자식 사용)
 
 <img width="450vw" src="./img/propschildsapp.jpg" alt="props" > <img width="450vw" src="./img/propschildswrap.jpg" alt="props">
-<p>props.children 활용하기 (여러 개의 자식 사용)App.js 코드</p> <p>props.children 활용하기 (여러 개의 자식 사용) Wrapper.js 코드</p>
+<p>props.children 활용하기(여러 개의 자식 사용) App.js 코드</p> <p>props.children 활용하기(여러 개의 자식 사용) Wrapper.js 코드</p>
 
 <img width="800" src="./img/propschildsstart.jpg" alt="props" >
 <p>실행화면</p>
