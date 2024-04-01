@@ -31,8 +31,8 @@
 
 <img width="450vw" src="./img/ground.jpg" alt="SPA" > <img width="450vw" src="./img/tennis.jpg" alt="SPA" >
 
-<img width="450vw" src="./img/ball.jpg" alt="SPA" >
-<a href="https://www.figma.com/file/vrN01FgxwMdUcf0lpttddI/%ED%94%BC%EA%B7%B8%EB%A7%88%EB%A1%9C-SPA-%EC%9B%B9-%EA%B8%B0%ED%9A%8D%ED%95%98%EA%B8%B0?type=design&node-id=0%3A1&mode=dev&t=pgkXsJD1zaQ8p7LY-1">피그마로 SPA 기획하기</a>
+<img width="450vw" src="./img/ball.jpg" alt="SPA">
+<a href="https://www.figma.com/file/vrN01FgxwMdUcf0lpttddI/%ED%94%BC%EA%B7%B8%EB%A7%88%EB%A1%9C-SPA-%EC%9B%B9-%EA%B8%B0%ED%9A%8D%ED%95%98%EA%B8%B0?type=design&node-id=0%3A1&mode=dev&t=pgkXsJD1zaQ8p7LY-1" target="_blank">피그마로 SPA 기획하기</a>
 <p>이것은 피그마로 SPA 기획한 모습이다.</p>
 
 <hr>
