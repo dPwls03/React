@@ -30,7 +30,44 @@
 <p>App.js가 Header.js, Main.js, Footer.js를 품었다. 그래서 Header.js, Main.js, Footer.js 파일의 부모는 App.js이다.</p>
 <p>리액트 컴포넌트는 props를 이용해 서로 통신한다.</p>
 
+<hr>
+
 ### 실습내용
 
-<img width="800" src="./img/component.jpg" alt="component" >
-<p>JSX는 JavaScript XML을 의미한다.</p>
+#### Function Component
+
+<img width="800" src="./img/funchead.jpg" alt="component practice" >
+<p>Function Component Header.js 코드</p>
+
+<img width="800" src="./img/funcmain.jpg" alt="component practice" >
+<p>Function Component Main.js 코드</p>
+
+<img width="800" src="./img/funcfoot.jpg" alt="component practice" >
+<p>Function Component Footer.js 코드</p>
+
+<img width="800" src="./img/funcapp.jpg" alt="component practice" >
+<p>Function Component App.js 코드</p>
+
+<p>rsf (React Stateless Function Component의 약자)</p>
+
+<img width="800" src="./img/funcstart.jpg" alt="component practice" >
+<p>실행화면</p>
+
+#### Class Component
+
+<img width="800" src="./img/classhead.jpg" alt="component practice" >
+<p>Class Component Header.js 코드</p>
+
+<img width="800" src="./img/classmain.jpg" alt="component practice" >
+<p>Class Component Main.js 코드</p>
+
+<img width="800" src="./img/classfoot.jpg" alt="component practice" >
+<p>Class Component Footer.js 코드</p>
+
+<img width="800" src="./img/classapp.jpg" alt="component practice" >
+<p>v Component App.js 코드</p>
+
+<p>rcc (React Class Component의 약자)</p>
+
+<img width="800" src="./img/classstart.jpg" alt="component practice" >
+<p>실행화면</p>
