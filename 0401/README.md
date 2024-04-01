@@ -36,11 +36,11 @@
 
 #### Function Component
 
-<img width="450vw" src="./img/funchead.jpg" alt="component practice" >
-<p>Function Component Header.js 코드</p>
+<img width="450vw" src="./img/funchead.jpg" alt="component practice" > <img width="450vw" src="./img/funcmain.jpg" alt="component practice" >
+<p>Function Component Header.js 코드</p> <p>Function Component Main.js 코드</p>
 
-<img width="450vw" src="./img/funcmain.jpg" alt="component practice" >
-<p>Function Component Main.js 코드</p>
+
+
 
 <img width="450vw" src="./img/funcfoot.jpg" alt="component practice" >
 <p>Function Component Footer.js 코드</p>
