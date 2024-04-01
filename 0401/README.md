@@ -76,6 +76,12 @@
 
 #### 1개의 프로퍼티 넘기기
 
+<img width="450vw" src="./img/onepropsapp.jpg" alt="props" > <img width="450vw" src="./img/onepropsmain.jpg" alt="props" >
+<p>1개의 프로퍼티 넘기기 App.js 코드</p> <p>1개의 프로퍼티 넘기기 Main.js 코드</p>
+
+<img width="800" src="./img/onepropsstart.jpg" alt="props" >
+<p>실행화면</p>
+
 <hr>
 
 #### 2개의 프로퍼티 넘기기
