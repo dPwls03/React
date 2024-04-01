@@ -36,22 +36,24 @@
 
 #### Function Component
 
-<img width="800" src="./img/funchead.jpg" alt="component practice" >
+<img width="450vw" src="./img/funchead.jpg" alt="component practice" >
 <p>Function Component Header.js 코드</p>
 
-<img width="800" src="./img/funcmain.jpg" alt="component practice" >
+<img width="450vw" src="./img/funcmain.jpg" alt="component practice" >
 <p>Function Component Main.js 코드</p>
 
-<img width="800" src="./img/funcfoot.jpg" alt="component practice" >
+<img width="450vw" src="./img/funcfoot.jpg" alt="component practice" >
 <p>Function Component Footer.js 코드</p>
 
-<img width="800" src="./img/funcapp.jpg" alt="component practice" >
+<img width="450vw" src="./img/funcapp.jpg" alt="component practice" >
 <p>Function Component App.js 코드</p>
 
 <p>rsf (React Stateless Function Component의 약자)</p>
 
 <img width="800" src="./img/funcstart.jpg" alt="component practice" >
 <p>실행화면</p>
+
+<hr>
 
 #### Class Component
 
