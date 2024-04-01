@@ -38,5 +38,5 @@
 <hr>
 
 <img width="800" src="./img/SPA.jpg" alt="SPA" >
-<a href="https://www.figma.com/proto/vrN01FgxwMdUcf0lpttddI/%ED%94%BC%EA%B7%B8%EB%A7%88%EB%A1%9C-SPA-%EC%9B%B9-%EA%B8%B0%ED%9A%8D%ED%95%98%EA%B8%B0?type=design&node-id=19-1412&t=GL3upLRa2ZVdp0a0-1&scaling=scale-down&page-id=0%3A1&mode=design">피그마로 SPA 기획 동작보기</button></a>
+<a href="https://www.figma.com/proto/vrN01FgxwMdUcf0lpttddI/%ED%94%BC%EA%B7%B8%EB%A7%88%EB%A1%9C-SPA-%EC%9B%B9-%EA%B8%B0%ED%9A%8D%ED%95%98%EA%B8%B0?type=design&node-id=19-1412&t=GL3upLRa2ZVdp0a0-1&scaling=scale-down&page-id=0%3A1&mode=design" target="_blank">피그마로 SPA 기획 동작보기</button></a>
 <p>위 링크로 들어가면 기획한 것의 동작을 볼 수 있다.</p>
