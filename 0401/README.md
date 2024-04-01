@@ -96,6 +96,12 @@
 
 #### 숫자 프로퍼티 넘기기
 
+<img width="450vw" src="./img/numpropsapp.jpg" alt="props" > <img width="450vw" src="./img/numpropsmain.jpg" alt="props" >
+<p>숫자 프로퍼티 넘기기 App.js 코드</p> <p>숫자 프로퍼티 넘기기 Main.js 코드</p>
+
+<img width="800" src="./img/numpropsstart.jpg" alt="props" >
+<p>실행화면</p>
+
 <hr>
 
 #### 프로퍼티의 기본값 설정
