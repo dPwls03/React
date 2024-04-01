@@ -61,3 +61,45 @@
 
 <img width="800" src="./img/classstart.jpg" alt="component practice" >
 <p>실행화면</p>
+
+<hr>
+
+#### 프로퍼티 예제
+
+<img width="450vw" src="./img/propsexapp.jpg" alt="props" > <img width="450vw" src="./img/mycomp.jpg" alt="props" >
+<p>프로퍼티 예제 App.js 코드</p> <p>프로퍼티 예제 MyComponent.js 코드</p>
+
+<img width="800" src="./img/propsexstart.jpg" alt="props" >
+<p>실행화면</p>
+
+<hr>
+
+#### 1개의 프로퍼티 넘기기
+
+<hr>
+
+#### 2개의 프로퍼티 넘기기
+
+<hr>
+
+#### 숫자 프로퍼티 넘기기
+
+<hr>
+
+#### 프로퍼티의 기본값 설정
+
+<hr>
+
+#### 프로퍼티의 필수값 설정
+
+<hr>
+
+#### 불리언 프로퍼티 사용하기
+
+<hr>
+
+#### props.children 활용하기
+
+<hr>
+
+#### props.children 활용하기 (여러 개의 자식 사용)
