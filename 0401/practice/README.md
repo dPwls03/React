@@ -10,7 +10,7 @@
 
 #### Function Component
 
-<a href="https://dpwls03.github.io/React/0401/practice/jsClock.html">Function Component 실행</a>
+<a href="https://dpwls03.github.io/React/0401/practice/function Component build/">Function Component 실행</a>
 
 <hr>
 
