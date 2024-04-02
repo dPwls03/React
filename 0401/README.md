@@ -34,6 +34,15 @@
 
 ### 실습내용
 
+#### Clock
+
+<img width="800" src="./img/jsClock.jpg" alt="clock" >
+<p>Clock jsClock.js 코드</p>
+<img width="800" src="./img/jsClockstart.jpg" alt="clock" >
+<p>실행화면</p>
+
+<hr>
+
 #### Function Component
 
 <img width="450vw" src="./img/funchead.jpg" alt="component practice" > <img width="450vw" src="./img/funcmain.jpg" alt="component practice" >
