@@ -68,9 +68,15 @@
 
 <hr>
 
-#### props.children 활용하기
+#### props.children 활용하기(Main 안 보임)
 
 <a href="https://dpwls03.github.io/React/0401/practice/propschildren활용하기build/">props.children 활용하기 실행</a>
+
+<hr>
+
+#### props.children 활용하기(Main 보임)
+
+<a href="https://dpwls03.github.io/React/0401/practice/propschildrenmain활용하기build/">props.children 활용하기 실행</a>
 
 <hr>
 
