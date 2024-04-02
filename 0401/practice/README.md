@@ -10,7 +10,7 @@
 
 #### Function Component
 
-<a href="https://dpwls03.github.io/React/0401/practice/프로퍼티의자료형타입정의build/">Function Component 실행</a>
+<a href="https://dpwls03.github.io/React/0401/practice/FunctionComponentbuild/">Function Component 실행</a>
 
 <hr>
 
@@ -40,13 +40,13 @@
 
 #### 숫자 프로퍼티 넘기기
 
-<a href="https://dpwls03.github.io/React/0401/practice/jsClock.html">실행</a>
+<a href="https://dpwls03.github.io/React/0401/practice/jsClock.html">숫자 프로퍼티 넘기기 실행</a>
 
 <hr>
 
 #### 프로퍼티의 자료형, 타입정의
 
-<a href="https://dpwls03.github.io/React/0401/practice/jsClock.html">숫자 프로퍼티 넘기기 실행</a>
+<a href="https://dpwls03.github.io/React/0401/practice/프로퍼티의자료형타입정의build/">프로퍼티의 자료형, 타입정의 실행</a>
 
 <hr>
 
