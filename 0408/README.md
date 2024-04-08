@@ -146,7 +146,7 @@
 <img width="450vw" src="./img/eventjs.jpg" alt="event" ><img width="450vw" src="./img/eventapp.jpg" alt="event" >
 <p>Main.js 코드</p>
 <p>App.js 코드</p>
-<img width="450vw" src="./img/eventstart1.jpg" alt="event" ><img width="450vw" src="./img/eventstart2.jpg" alt="event" >
+<img width="420vw" src="./img/eventstart1.jpg" alt="event" ><img width="420vw" src="./img/eventstart2.jpg" alt="event" >
 <p>실행화면</p>
 
 #### 너비와 높이 증가시키기
