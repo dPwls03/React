@@ -154,7 +154,7 @@
 <img width="450vw" src="./img/Areajs.jpg" alt="event" ><img width="450vw" src="./img/areaapp.jpg" alt="event" >
 <p>Area.js 코드</p>
 <p>App.js 코드</p>
-<img width="450vw" src="./img/areastart.jpg" alt="event" >
+<img width="800" src="./img/areastart.jpg" alt="event" >
 <p>실행화면</p>
 
 #### 경고창 띄우기
@@ -193,7 +193,7 @@
 <img width="450vw" src="./img/simplejs.jpg" alt="event" ><img width="450vw" src="./img/simpleapp.jpg" alt="event" >
 <p>SimpleForm.js 코드</p>
 <p>App.js 코드</p>
-<img width="450vw" src="./img/simplestart.jpg" alt="event" >
+<img width="800" src="./img/simplestart.jpg" alt="event" >
 <p>실행화면</p>
 
 #### 숫자만 입력받는 텍스트 박스
@@ -201,7 +201,7 @@
 <img width="450vw" src="./img/numjs.jpg" alt="event" ><img width="450vw" src="./img/numapp.jpg" alt="event" >
 <p>NumberForm.js 코드</p>
 <p>App.js 코드</p>
-<img width="450vw" src="./img/numstart.jpg" alt="event" >
+<img width="800" src="./img/numstart.jpg" alt="event" >
 <p>실행화면</p>
 
 #### 여러개의 입력 항목을 가진 입력 양식 만들기
