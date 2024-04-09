@@ -90,7 +90,7 @@
 
 #### 스톱워치 만들기
 
-<a href="https://dpwls03.github.io/React/0408/practice/스톱워치 만들기build/" target="_blank">스톱워치 만들기 실행</a>
+<a href="https://dpwls03.github.io/React/0408/practice/스톱워치만들기build/" target="_blank">스톱워치 만들기 실행</a>
 
 #### 간단한 입력 양식
 
