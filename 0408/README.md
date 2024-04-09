@@ -131,7 +131,7 @@
 <img width="800" src="./img/counterstart4.jpg" alt="state" >
 <p>실행화면</p>
 
-#### state 설정 및 사용 2
+#### state 설정 및 사용 3
 
 <img width="450vw" src="./img/counterjs5.jpg" alt="state" ><img width="450vw" src="./img/counterindex.jpg" alt="state" >
 <p>Counter.js 코드</p>
