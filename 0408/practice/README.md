@@ -94,7 +94,7 @@
 
 #### 간단한 입력 양식
 
-<a href="https://dpwls03.github.io/React/0408/practice/간단한입력양식build/" target="_blank">간단한 입력 양식법 실행</a>
+<a href="https://dpwls03.github.io/React/0408/practice/간단한입력양식build/" target="_blank">간단한 입력 양식 실행</a>
 
 #### 숫자만 입력받는 텍스트 박스
 
