@@ -42,9 +42,6 @@
 
 <a href="https://dpwls03.github.io/React/0408/practice/state사용build/" target="_blank">state 사용 실행</a>
 
-#### state 비동기적 작동
-
-<a href="https://dpwls03.github.io/React/0408/practice/state비동기적 작동build/" target="_blank">state 비동기적 작동 실행</a>
 
 #### state 비동기적 작동 3증가
 

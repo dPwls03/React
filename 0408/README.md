@@ -91,14 +91,6 @@
 <img width="800" src="./img/counterstart2.jpg" alt="state" >
 <p>실행화면</p>
 
-#### state 비동기적 작동
-
-<img width="450vw" src="./img/counterjs3.jpg" alt="state" ><img width="450vw" src="./img/counterapp.jpg" alt="state" >
-<p>Counter.js 코드</p>
-<p>App.js 코드</p>
-<img width="800" src="./img/counterstart3.jpg" alt="state" >
-<p>실행화면</p>
-
 #### state 비동기적 작동 3증가
 
 <img width="450vw" src="./img/setstatecounterjs.jpg" alt="state" ><img width="450vw" src="./img/setstatecounterapp.jpg" alt="state" >
