@@ -89,7 +89,13 @@
 
 #### 댓글 컴포넌트 데이터 객체로 분리하기
 
-
+<img width="450vw" src="./img/commentindex.jpg" alt="comment" ><img width="450vw" src="./img/commentjs3.jpg" alt="comment" >
+<p>Index.js 코드</p>
+<p>Comment.js 코드</p>
+<img width="450vw" src="./img/commentlistjs4.jpg" alt="comment" >
+<p>CommentList.js 코드</p>
+<img width="800" src="./img/commentstart4.jpg" alt="comment" >
+<p>실행화면</p>
 
 <hr>
 
