@@ -18,19 +18,19 @@
 
 #### 댓글 컴포넌트
 
-
+<a href="https://dpwls03.github.io/React/0408/practice/댓글컴포넌트build/" target="_blank">댓글 컴포넌트 실행</a>
 
 #### 댓글 컴포넌트 스타일 입히기
 
-
+<a href="https://dpwls03.github.io/React/0408/practice/댓글컴포넌트스타일입히기build/" target="_blank">댓글 컴포넌트 스타일 입히기 실행</a>
 
 #### 댓글 컴포넌트 props 추가하기
 
-
+<a href="https://dpwls03.github.io/React/0408/practice/댓글컴포넌트props추가하기build/" target="_blank">댓글 컴포넌트 props 추가하기 실행</a>
 
 #### 댓글 컴포넌트 데이터 객체로 분리하기
 
-
+<a href="https://dpwls03.github.io/React/0408/practice/댓글컴포넌트데이터객체로분리하기build/" target="_blank">댓글 컴포넌트 데이터 객체로 분리하기 실행</a>
 
 <hr>
 

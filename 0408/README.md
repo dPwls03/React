@@ -59,7 +59,13 @@
 
 #### 댓글 컴포넌트
 
-
+<img width="450vw" src="./img/commentindex.jpg" alt="comment" ><img width="450vw" src="./img/commentjs.jpg" alt="comment" >
+<p>Index.js 코드</p>
+<p>Comment.js 코드</p>
+<img width="450vw" src="./img/commentlistjs.jpg" alt="comment" >
+<p>CommentList.js 코드</p>
+<img width="800" src="./img/commentstart.jpg" alt="comment" >
+<p>실행화면</p>
 
 #### 댓글 컴포넌트 스타일 입히기
 
