@@ -1,5 +1,7 @@
 ## Class0408 레포트
 
+### 웹사이트를 5개 이상의 컴포넌트로 구성한 자기소개 페이지
+
 <img width="450wv" src="./img/appjs.jpg" alt="component" > <img width="450wv" src="./img/headerjs.jpg" alt="component" >
 <p>App.js 코드</p>
 <p>Header.js 코드</p>
@@ -17,3 +19,4 @@
 
 <hr>
 
+### 회원가입 페이지 만들기
