@@ -20,3 +20,13 @@
 <hr>
 
 ### 회원가입 페이지 만들기
+
+<img width="450wv" src="./img/Mainjs1.jpg" alt="component" > <img width="450wv" src="./img/Mainjs2.jpg" alt="component" ><img width="450wv" src="./img/Mainjs3.jpg" alt="component" >
+<p>Main.js 코드</p>
+
+<img width="450wv" src="./img/Maincss.jpg" alt="component" > <img width="450wv" src="./img/appjs2.jpg" alt="component" >
+<p>Main.css 코드</p>
+<p>App.js 코드</p>
+
+<img width="800" src="./img/start2.jpg" alt="component" ><img width="800" src="./img/start3.jpg" alt="component" >
+<p>실행화면</p>
