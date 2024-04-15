@@ -108,7 +108,6 @@
 #### Examples of objects and arrays in state - List (array)
 
 <img width="450vw" src="./img/addtodojs.jpg" alt="useState" ><img width="450vw" src="./img/tasklistjs.jpg" alt="useState" >
-
 <p>AddTodo.js 코드</p>
 <p>TaskList.js 코드</p>
 <img width="450vw" src="./img/listapp.jpg" alt="useState" >
