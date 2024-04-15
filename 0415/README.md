@@ -138,13 +138,6 @@
 
 #### Storing information from previous renders
 
-<img width="450vw" src="./img/keyapp.jpg" alt="useState" >
-<p>App.js 코드</p>
-<img width="800" src="./img/keystart.jpg" alt="useState" >
-<p>실행화면</p>
-
-#### Storing information from previous renders
-
 <img width="450vw" src="./img/renderjs.jpg" alt="useState" > <img width="450vw" src="./img/countlabel.jpg" alt="useState" >
 <p>App.js 코드</p>
 <p>CountLabel.js 코드</p>

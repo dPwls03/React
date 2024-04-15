@@ -53,7 +53,3 @@
 #### Storing information from previous renders
 
 <a href="https://dpwls03.github.io/React/0415/practice/Storinginformationfrompreviousrendersbuild/" target="_blank">Storing information from previous renders 실행</a>
-
-#### Storing information from previous renders
-
-<a href="https://dpwls03.github.io/React/0415/practice/Storinginformationfrompreviousrendersbuild/" target="_blank">Storing information from previous renders 실행</a>
