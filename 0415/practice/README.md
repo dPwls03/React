@@ -20,7 +20,7 @@
 
 #### The difference between passing an updater and passing the next state directly example - Passing the next state directly
 
-<a href="https://dpwls03.github.io/React/0415/practice/Passingthenextstate irectlybuild/" target="_blank">Passing the next state directly 실행</a>
+<a href="https://dpwls03.github.io/React/0415/practice/Passingthenextstateirectlybuild/" target="_blank">Passing the next state directly 실행</a>
 
 #### The difference between passing an updater and passing the next state directly example - Passing the updater function
 
