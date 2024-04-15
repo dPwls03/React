@@ -40,7 +40,7 @@
 
 ### 실습내용
 
-#### Basic useState examples Counter (number)
+#### Basic useState examples - Counter (number)
 
 <img width="450vw" src="./img/counterjs.jpg" alt="useState" ><img width="450vw" src="./img/counterapp.jpg" alt="useState" >
 <p>Counter.js 코드</p>
@@ -48,7 +48,7 @@
 <img width="800" src="./img/counterstart.jpg" alt="useState" >
 <p>실행화면</p>
 
-#### Basic useState examples Text field (string)
+#### Basic useState examples - Text field (string)
 
 <img width="450vw" src="./img/myinputjs.jpg" alt="useState" ><img width="450vw" src="./img/myinputapp.jpg" alt="useState" >
 <p>MyInput.js 코드</p>
@@ -56,7 +56,7 @@
 <img width="800" src="./img/myinputstart.jpg" alt="useState" >
 <p>실행화면</p>
 
-#### Basic useState examples Checkbox (boolean)
+#### Basic useState examples - Checkbox (boolean)
 
 <img width="450vw" src="./img/mycheckboxjs.jpg" alt="useState" ><img width="450vw" src="./img/mycheckboxapp.jpg" alt="useState" >
 <p>MyCheckbox.js 코드</p>
@@ -64,10 +64,91 @@
 <img width="800" src="./img/mycheckboxstart.jpg" alt="useState" >
 <p>실행화면</p>
 
-#### Basic useState examples From (two variables)
+#### Basic useState examples - From (two variables)
 
 <img width="450vw" src="./img/fromjs.jpg" alt="useState" ><img width="450vw" src="./img/fromapp.jpg" alt="useState" >
 <p>From.js 코드</p>
 <p>App.js 코드</p>
 <img width="800" src="./img/fromstart.jpg" alt="useState" >
 <p>실행화면</p>
+
+#### The difference between passing an updater and passing the next state directly example - Passing the next state directly
+
+<img width="450vw" src="./img/directcounterjs.jpg" alt="useState" ><img width="450vw" src="./img/counterapp.jpg" alt="useState" >
+<p>Counter.js 코드</p>
+<p>App.js 코드</p>
+<img width="800" src="./img/directcounterstart.jpg" alt="useState" >
+<p>실행화면</p>
+
+#### The difference between passing an updater and passing the next state directly example - Passing the updater function
+
+<img width="450vw" src="./img/funccounterjs.jpg" alt="useState" ><img width="450vw" src="./img/counterapp.jpg" alt="useState" >
+<p>Counter.js 코드</p>
+<p>App.js 코드</p>
+<img width="800" src="./img/funccounterstart.jpg" alt="useState" >
+<p>실행화면</p>
+
+#### Examples of objects and arrays in state - From (object)
+
+<img width="450vw" src="./img/objectfromjs.jpg" alt="useState" ><img width="450vw" src="./img/fromapp.jpg" alt="useState" >
+<p>From.js 코드</p>
+<p>App.js 코드</p>
+<img width="800" src="./img/objectfromstart.jpg" alt="useState" >
+<p>실행화면</p>
+
+#### Examples of objects and arrays in state - From (nested object)
+
+<img width="450vw" src="./img/nestedfromjs1.jpg" alt="useState" ><img width="450vw" src="./img/nestedfromjs2.jpg" alt="useState" >
+<p>From.js 코드</p>
+<img width="450vw" src="./img/fromapp.jpg" alt="useState" >
+<p>App.js 코드</p>
+<img width="800" src="./img/nestedfromstart.jpg" alt="useState" >
+<p>실행화면</p>
+
+#### Examples of objects and arrays in state - List (array)
+
+<img width="450vw" src="./img/addtodojs.jpg" alt="useState" ><img width="450vw" src="./img/tasklistjs.jpg" alt="useState" >
+
+<p>AddTodo.js 코드</p>
+<p>TaskList.js 코드</p>
+<img width="450vw" src="./img/listapp.jpg" alt="useState" >
+<p>App.js 코드</p>
+<img width="800" src="./img/liststart.jpg" alt="useState" >
+<p>실행화면</p>
+
+#### The difference between passing an initializer and passing the initial state directly example - Passing the initializer function
+
+<img width="450vw" src="./img/passingjs.jpg" alt="useState" >
+<p>App.js 코드</p>
+<img width="800" src="./img/passingstart.jpg" alt="useState" >
+<p>실행화면</p>
+
+#### The difference between passing an initializer and passing the initial state directly example - Passing the initial state directly
+
+<img width="450vw" src="./img/passingjs2.jpg" alt="useState" >
+<p>App.js 코드</p>
+<img width="800" src="./img/passingstart2.jpg" alt="useState" >
+<p>실행화면</p>
+
+#### Resetting state with a key
+
+<img width="450vw" src="./img/keyapp.jpg" alt="useState" >
+<p>App.js 코드</p>
+<img width="800" src="./img/keystart.jpg" alt="useState" >
+<p>실행화면</p>
+
+#### Storing information from previous renders
+
+<img width="450vw" src="./img/keyapp.jpg" alt="useState" >
+<p>App.js 코드</p>
+<img width="800" src="./img/keystart.jpg" alt="useState" >
+<p>실행화면</p>
+
+#### Storing information from previous renders
+
+<img width="450vw" src="./img/renderjs.jpg" alt="useState" > <img width="450vw" src="./img/countlabel.jpg" alt="useState" >
+<p>App.js 코드</p>
+<p>CountLabel.js 코드</p>
+<img width="800" src="./img/renderstart1.jpg" alt="useState" ><img width="800" src="./img/renderstart2.jpg" alt="useState" >
+<p>실행화면</p>
+
