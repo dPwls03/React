@@ -19,7 +19,7 @@
 
 #### init 함수를 사용하지 않는 counter 예시
 
-<img width="450vw" src="./img/initxcounterjs.jpg" alt="hook" ><img width="450vw" src="./img/initxapp.jpg" alt="hook" >
+<img width="450vw" src="./img/initxcounterjs.jpg" alt="hook" ><img width="450vw" src="./img/initxappjs.jpg" alt="hook" >
 <p>Counter.js 코드</p>
 <p>App.js 코드</p>
 
@@ -30,7 +30,7 @@
 
 #### init 함수를 사용하여 counter 예시
 
-<img width="450vw" src="./img/initocounterjs.jpg" alt="hook" ><img width="450vw" src="./img/initxapp.jpg" alt="hook" >
+<img width="450vw" src="./img/initocounterjs.jpg" alt="hook" ><img width="450vw" src="./img/initxappjs.jpg" alt="hook" >
 <p>Counter.js 코드</p>
 <p>App.js 코드</p>
 
@@ -41,7 +41,7 @@
 
 #### useState 사용
 
-<img width="450vw" src="./img/usestatecounterjs.jpg" alt="hook" ><img width="450vw" src="./img/initxapp.jpg" alt="hook" >
+<img width="450vw" src="./img/usestatecounterjs.jpg" alt="hook" ><img width="450vw" src="./img/initxappjs.jpg" alt="hook" >
 <p>Counter.js 코드</p>
 <p>App.js 코드</p>
 
@@ -55,7 +55,7 @@
 <img width="450vw" src="./img/propsapp.jpg" alt="hook" ><img width="450vw" src="./img/page.jpg" alt="hook" >
 <p>App.js 코드</p>
 <p>Page.js 코드</p>
-<img width="450vw" src="./img/header.jpg" alt="hook" ><img width="450vw" src="./img/contentjs.jpg" alt="hook" >
+<img width="420vw" src="./img/header.jpg" alt="hook" ><img width="450vw" src="./img/contentjs.jpg" alt="hook" >
 <p>Header.js 코드</p>
 <p>Content.js 코드</p>
 <img width="450vw" src="./img/footer.jpg" alt="hook" >
@@ -71,7 +71,7 @@
 <img width="450vw" src="./img/conapp.jpg" alt="hook" ><img width="450vw" src="./img/conpage.jpg" alt="hook" >
 <p>App.js 코드</p>
 <p>Page.js 코드</p>
-<img width="450vw" src="./img/conheader.jpg" alt="hook" ><img width="450vw" src="./img/concontent.jpg" alt="hook" >
+<img width="420vw" src="./img/conheader.jpg" alt="hook" ><img width="450vw" src="./img/concontent.jpg" alt="hook" >
 <p>Header.js 코드</p>
 <p>Content.js 코드</p>
 <img width="450vw" src="./img/confooter.jpg" alt="hook" ><img width="450vw" src="./img/theme.jpg" alt="hook" >
@@ -89,16 +89,6 @@
 <p>App.js 코드</p>
 
 <img width="800" src="./img/conchangestart.jpg" alt="hook" >
-<p>실행화면</p>
-
-<hr>
-
-#### useRef 사용 예시 - 변수 관리
-
-<img width="800" src="./img/userefapp.jpg" alt="hook" >
-<p>App.js 코드</p>
-
-<img width="450vw" src="./img/userefvarstart1.jpg" alt="hook" ><img width="450vw" src="./img/userefvarstart2.jpg" alt="hook" >
 <p>실행화면</p>
 
 <hr>
