@@ -14,3 +14,229 @@
 <hr>
 
 ### 수업내용
+
+### 실습내용
+
+#### init 함수를 사용하지 않는 counter 예시
+
+<img width="450vw" src="./img/initxcounterjs.jpg" alt="hook" ><img width="450vw" src="./img/initxapp.jpg" alt="hook" >
+<p>Counter.js 코드</p>
+<p>App.js 코드</p>
+
+<img width="800" src="./img/initxstart.jpg" alt="hook" >
+<p>실행화면</p>
+
+<hr>
+
+#### init 함수를 사용하여 counter 예시
+
+<img width="450vw" src="./img/initocounterjs.jpg" alt="hook" ><img width="450vw" src="./img/initxapp.jpg" alt="hook" >
+<p>Counter.js 코드</p>
+<p>App.js 코드</p>
+
+<img width="800" src="./img/initostart.jpg" alt="hook" >
+<p>실행화면</p>
+
+<hr>
+
+#### useState 사용
+
+<img width="450vw" src="./img/usestatecounterjs.jpg" alt="hook" ><img width="450vw" src="./img/initxapp.jpg" alt="hook" >
+<p>Counter.js 코드</p>
+<p>App.js 코드</p>
+
+<img width="800" src="./img/usestatestart.jpg" alt="hook" >
+<p>실행화면</p>
+
+<hr>
+
+####  state와 props만 사용해서 만든 웹사이트
+
+<img width="450vw" src="./img/propsapp.jpg" alt="hook" ><img width="450vw" src="./img/page.jpg" alt="hook" >
+<p>App.js 코드</p>
+<p>Page.js 코드</p>
+<img width="450vw" src="./img/header.jpg" alt="hook" ><img width="450vw" src="./img/contentjs.jpg" alt="hook" >
+<p>Header.js 코드</p>
+<p>Content.js 코드</p>
+<img width="450vw" src="./img/footer.jpg" alt="hook" >
+<p>Footer.js 코드</p>
+
+<img width="450vw" src="./img/propstart1.jpg" alt="hook" ><img width="450vw" src="./img/propsstart2.jpg" alt="hook" >
+<p>실행화면</p>
+
+<hr>
+
+#### context를 사용해서 만든 웹사이트
+
+<img width="450vw" src="./img/conapp.jpg" alt="hook" ><img width="450vw" src="./img/conpage.jpg" alt="hook" >
+<p>App.js 코드</p>
+<p>Page.js 코드</p>
+<img width="450vw" src="./img/conheader.jpg" alt="hook" ><img width="450vw" src="./img/concontent.jpg" alt="hook" >
+<p>Header.js 코드</p>
+<p>Content.js 코드</p>
+<img width="450vw" src="./img/confooter.jpg" alt="hook" ><img width="450vw" src="./img/theme.jpg" alt="hook" >
+<p>Footer.js 코드</p>
+<p>ThemeContext.js 코드</p>
+
+<img width="450vw" src="./img/contextstart1.jpg" alt="hook" ><img width="450vw" src="./img/contextstart2.jpg" alt="hook" >
+<p>실행화면</p>
+
+<hr>
+
+#### context의 값 변경하기
+
+<img width="800" src="./img/conchangeapp.jpg" alt="hook" >
+<p>App.js 코드</p>
+
+<img width="800" src="./img/conchangestart.jpg" alt="hook" >
+<p>실행화면</p>
+
+<hr>
+
+#### useRef 사용 예시 - 변수 관리
+
+<img width="800" src="./img/userefapp.jpg" alt="hook" >
+<p>App.js 코드</p>
+
+<img width="450vw" src="./img/userefvarstart1.jpg" alt="hook" ><img width="450vw" src="./img/userefvarstart2.jpg" alt="hook" >
+<p>실행화면</p>
+
+<hr>
+
+#### useRef 사용 예시 - 변수 관리
+
+<img width="800" src="./img/userefapp.jpg" alt="hook" >
+<p>App.js 코드</p>
+
+<img width="450vw" src="./img/userefvarstart1.jpg" alt="hook" ><img width="450vw" src="./img/userefvarstart2.jpg" alt="hook" >
+<p>실행화면</p>
+
+<hr>
+
+#### useRef 사용 예시 - DOM 요소 선택 1
+
+<img width="450vw" src="./img/domfocusjs.jpg" alt="hook" ><img width="450vw" src="./img/domfocusapp.jpg" alt="hook" >
+<p>DOMFocus.js 코드</p>
+<p>App.js 코드</p>
+
+<img width="800" src="./img/domfocusstart.jpg" alt="hook" >
+<p>실행화면</p>
+
+<hr>
+
+#### useRef 사용 예시 - DOM 요소 선택 2
+
+<img width="450vw" src="./img/inputjs.jpg" alt="hook" ><img width="450vw" src="./img/inputapp.jpg" alt="hook" >
+<p>InputSample.js 코드</p>
+<p>App.js 코드</p>
+
+<img width="800" src="./img/inputstart.jpg" alt="hook" >
+<p>실행화면</p>
+
+<hr>
+
+#### 부모 컴포넌트에 커스텀 함수 노출하기 1
+
+<img width="450vw" src="./img/childcomjs.jpg" alt="hook" ><img width="450vw" src="./img/parentcomjs.jpg" alt="hook" >
+<p>ChildComponent.js 코드</p>
+<p>ParentComponent.js 코드</p>
+<img width="800" src="./img/usehandleapp.jpg" alt="hook" >
+<p>App.js 코드</p>
+
+<img width="800" src="./img/usehandlestart.jpg" alt="hook" >
+<p>실행화면</p>
+
+<hr>
+
+#### 부모 컴포넌트에 커스텀 함수 노출하기 2
+
+<img width="450vw" src="./img/myinputjs.jpg" alt="hook" ><img width="450vw" src="./img/formjs.jpg" alt="hook" >
+<p>MyInput.js 코드</p>
+<p>Form.js 코드</p>
+<img width="800" src="./img/usehandleapp2.jpg" alt="hook" >
+<p>App.js 코드</p>
+
+<img width="800" src="./img/usehandlestart2.jpg" alt="hook" >
+<p>실행화면</p>
+
+<hr>
+
+#### useEffect - 기본 사용법
+
+<img width="800" src="./img/effectbaseapp.jpg" alt="hook" >
+<p>App.js 코드</p>
+
+<img width="800" src="./img/effectstart1.jpg" alt="hook" >
+<p>실행화면</p>
+
+<hr>
+
+#### useEffect - 세 가지 사용법 1. 무한반복
+
+<img width="800" src="./img/useeffect1app.jpg" alt="hook" >
+<p>App.js 코드</p>
+
+<img width="800" src="./img/useeffect1start.jpg" alt="hook" >
+<p>실행화면</p>
+
+<hr>
+
+#### useEffect - 세 가지 사용법 2. 처음에만 실행
+
+<img width="800" src="./img/useeffect2app.jpg" alt="hook" >
+<p>App.js 코드</p>
+
+<img width="800" src="./img/useeffect2start.jpg" alt="hook" >
+<p>실행화면</p>
+
+<hr>
+
+#### useEffect - 세 가지 사용법 3. 의존성 배열 사용
+
+<img width="800" src="./img/useeffect3app.jpg" alt="hook" >
+<p>App.js 코드</p>
+
+<img width="800" src="./img/useeffect3start.jpg" alt="hook" >
+<p>실행화면</p>
+
+<hr>
+
+#### useEffect - cleanup
+
+<img width="800" src="./img/cleanupapp.jpg" alt="hook" >
+<p>App.js 코드</p>
+
+<img width="800" src="./img/cleanupstart.jpg" alt="hook" >
+<p>실행화면</p>
+
+<hr>
+
+#### useLayoutEffect - useEffect 사용
+
+<img width="800" src="./img/layout1app.jpg" alt="hook" >
+<p>App.js 코드</p>
+
+<img width="800" src="./img/layout1start.jpg" alt="hook" >
+<p>실행화면</p>
+
+<hr>
+
+#### useLayoutEffect - useLayoutEffect 사용
+
+<img width="800" src="./img/layout2app.jpg" alt="hook" >
+<p>App.js 코드</p>
+
+<img width="800" src="./img/layout2start.jpg" alt="hook" >
+<p>실행화면</p>
+
+<hr>
+
+#### useLayoutEffect
+
+<img width="450vw" src="./img/practicejs.jpg" alt="hook" ><img width="450vw" src="./img/uselayoutapp.jpg" alt="hook" >
+<p>Practice.js 코드</p>
+<p>App.js 코드</p>
+
+<img width="800" src="./img/uselayoutstart.jpg" alt="hook" >
+<p>실행화면</p>
+
