@@ -20,7 +20,7 @@
 
 ### 수업내용
 
-<img width="800" src="./img/scss1.jpg" alt="scss" >
+<img width="800" src="./img/scss.jpg" alt="scss" >
 
 ####  Button 프로젝트(SCSS) 실습
 
