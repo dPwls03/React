@@ -7,7 +7,7 @@
 
 일급객체에 대한 내용입니다.
 
-일급객체란 다른 객체들에 일반적으로 적용 가능한 연산을 모두 지원하는 객체를 가리킵니다.
+일급객체란 다른 객체들에 일반적으로 적용 가능한 연산을 모두 지원하는 객체를 가리킨다.
 
 일급객체의 조건
 
@@ -22,6 +22,6 @@
 
 #### TodoList 만들기
 
-<img width="800" src="./img/todolist.jpg" alt="todo" >
+<img width="500" src="./img/todolist.jpg" alt="todo" >
 
 <a href="https://dpwls03.github.io/React/0520/build/">[TodoList]</a>
