@@ -11,11 +11,15 @@
 
 <hr>
 
+<img width="800" src="./img/check.jpg" alt="scss" >
+
 #### CheckBox(CSS module) 실습
 
 <img width="450vw" src="./img/chkbox.jpg" alt="scss" >
 
 <hr>
+
+<img width="800" src="./img/buttonbutton.jpg" alt="scss" >
 
 #### styled-components 실습
 
