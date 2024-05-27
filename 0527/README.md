@@ -1,7 +1,7 @@
 ## Class0527 수업 정리
 
 ###  발표
-<a href="https://dpwls03.github.io/React/0527/리액트 프로젝트 Github Pages로 베포하기.pdf">[발표자료]</a>
+<a href="https://dpwls03.github.io/React/0527/리액트 프로젝트 Github Pages로 배포하기.pdf">[발표자료]</a>
 
 [발표내용]
 
