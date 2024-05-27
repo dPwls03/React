@@ -33,4 +33,3 @@ static 웹 사이트를 호스팅 할 수 있게 해주는 서비스이다.
 
 <img width="450vw" src="./img/10.jpg" alt="page" ><img width="450vw" src="./img/11.jpg" alt="page" >
 
-<a href="https://dpwls03.github.io/React/0527/build/">[Page]</a>
